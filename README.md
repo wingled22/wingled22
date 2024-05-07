@@ -1,6 +1,8 @@
-- 👋 Hi, I’m Windel Pelayo known as @wingled22 here in GitHub
+- 👋 Hi, I’m Windel Pelayo known as @wingled22 here in GitHub.
 - 👀 I’m interested in on software development and web development but sucks at coding haha! But I can write useful code.
-- 🌱 I’m currently learning .NET Core.
+- 🌱 I’m currently learning:
+  - .NET Core
+  - ⚛ React
 - 📫 How to reach me: 
   - pelayowindel@gmail.com
   - facebook.com/bloidel
